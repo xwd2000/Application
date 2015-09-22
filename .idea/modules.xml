@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-Universal-Image-Loader/Android-Universal-Image-Loader.iml" filepath="$PROJECT_DIR$/Android-Universal-Image-Loader/Android-Universal-Image-Loader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDemos/MyDemos.iml" filepath="$PROJECT_DIR$/MyDemos/MyDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeBackLayout/SwipeBackLayout.iml" filepath="$PROJECT_DIR$/SwipeBackLayout/SwipeBackLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpcomponents-client-android/httpcomponents-client-android.iml" filepath="$PROJECT_DIR$/httpcomponents-client-android/httpcomponents-client-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,9 @@
+<resources>
+
+
+    
+    <!-- 滑动返回相关 -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="common_margin">16dip</dimen>
+</resources>

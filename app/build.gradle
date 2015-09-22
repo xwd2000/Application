@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+dependencies {
+   //   compile 'io.netty:netty-all:4.0.29.Final'
+    //  compile files('libs/netty-all-4.0.29.Final.jar')
+//    compile fileTree(dir: 'libs', include: '*.jar')
+ //   compile project(':library')
+ //  compile project(':Android-Universal-Image-Loader')
+//   compile project(':SwipeBackLayout')
+//    compile project(':httpcomponents-client-android')
+
+}
+android {
+    compileSdkVersion 21
+
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.xwd2000.myapplication"
+        minSdkVersion 16
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:23.0.0'
+}
